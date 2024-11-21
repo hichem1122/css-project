@@ -1,0 +1,47 @@
+body{
+  background-image: url(pexels-adrien-olichon-1257089-2387819.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: 0%;
+}
+a{
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  text-decoration: none;
+  font-size: large;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.navbar{
+  display: inline-flex;
+  
+}
+#about-me{
+  color: white;
+  position: absolute;
+  left: 90%;
+  top: 38%;
+  margin-right: 3%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: medium;
+}
+#myname{
+  color: white;
+  font-family: "Great Vibes", cursive;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 75px;
+  position: absolute;
+  left: 3%;
+}
+#webdev{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  position: relative;
+  top: 155px;
+  left: 100px;
+}
